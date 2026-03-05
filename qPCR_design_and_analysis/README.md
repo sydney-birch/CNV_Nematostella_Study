@@ -53,6 +53,7 @@ C) cGAS
 
 
 ## 3. Design qPCR experiment and Run
-
+  - Run qPCR on 6 populations with 4 primers (TRIM, STING, cGAS, Catalyse) with 3 technical replicates (one population per plate)
+      - Plate-Map_Immunity_qPCR.xlsx
 
 ## 4. Analyze qPCR Results
