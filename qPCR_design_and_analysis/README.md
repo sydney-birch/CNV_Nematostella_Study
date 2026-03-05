@@ -35,3 +35,11 @@ C) cGAS
   - Record all info (Primers, targets, IDT UNAfold, and Thermofisher primer analyzer) in excel (Primers_immunity_genes_Nematostella_3-8-23) and choose primers to make and test
 
 
+## 2. Calculate primer efficency
+
+
+
+## 3. Design qPCR experiment and Run
+
+
+## 4. Analyze qPCR Results
