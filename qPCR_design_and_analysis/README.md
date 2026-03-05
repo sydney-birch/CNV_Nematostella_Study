@@ -20,7 +20,7 @@ B) STING
   - Go through primers and compare to alignment - find areas with few polymorphisims
       - Open alignment seqs (all.sting.realigned.fasta) in SnapGene - and annotate primers
   - Copy primers and targets into IDT UNAfold (under tools) to veiw secondary structure (we want under 50C)
-  - Check primers (all sequences and RC) in thermofisher: [https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/molecular-biology-learning-center/molecular-biology-resource-library/thermo-scientific-web-tools/multiple-primer-analyzer.html]
+  - Check primers (all sequences and RC) in thermofisher: https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/molecular-biology-learning-center/molecular-biology-resource-library/thermo-scientific-web-tools/multiple-primer-analyzer.html
   - Record all info (Primers, targets, IDT UNAfold, and Thermofisher primer analyzer) in excel (Primers_immunity_genes_Nematostella_3-8-23) and choose primers to make and test
 
 
@@ -31,7 +31,7 @@ C) cGAS
   - Go through primers and compare to alignment - find areas with few polymorphisims
       - Open alignment seqs (cgas.combine.fasta) in SnapGene - and annotate primers
   - Copy primers and targets into IDT UNAfold (under tools) to veiw secondary structure (we want under 50C)
-  - Check primers (all sequences and RC) in thermofisher: [https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/molecular-biology-learning-center/molecular-biology-resource-library/thermo-scientific-web-tools/multiple-primer-analyzer.html]
+  - Check primers (all sequences and RC) in thermofisher: https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/molecular-biology-learning-center/molecular-biology-resource-library/thermo-scientific-web-tools/multiple-primer-analyzer.html
   - Record all info (Primers, targets, IDT UNAfold, and Thermofisher primer analyzer) in excel (Primers_immunity_genes_Nematostella_3-8-23) and choose primers to make and test
 
 
