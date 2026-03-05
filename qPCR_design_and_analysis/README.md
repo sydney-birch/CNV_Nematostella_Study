@@ -36,7 +36,9 @@ C) cGAS
 
 
 ## 2. Calculate primer efficency
-
+  - Calculate 4 point dilution series: 96-Well-qPCR-Plate-Map_Primer_dilutions_final.xlsx
+  - Set up plate and run qPCR: 96-Well-qPCR-Plate-Map_Primer_dilutions_final.xlsx
+  - Calculate Standard curve: calc_Primer_efficiency.xlsx
 
 
 ## 3. Design qPCR experiment and Run
