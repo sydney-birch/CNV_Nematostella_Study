@@ -57,3 +57,7 @@ C) cGAS
       - Plate-Map_Immunity_qPCR.xlsx
 
 ## 4. Analyze qPCR Results
+  - Calculate the copy number based on the Catalyse activity:
+      - Copy_Number_Calc-Immunity_qPCR.xlsx
+  - Analyze qPCR results:
+      - Nematostella_copy_number_analysis_11-10-23.R
