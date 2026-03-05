@@ -38,13 +38,16 @@ C) cGAS
 ## 2. Calculate primer efficency
   - Calculate 4 point dilution series:
       - make 20ul of 100 ng diluton of DNA  (ex: 15.7 ul DNA to 4.83 ul Molecular Biology water)
+        
       - do 4 point dilution series: to start add 15 ul of Molecular Biology water to each tube
           - Add 5ul of 100ng DNA to first tube - mix very well
           - Then take 5 ul from the 100 tube and add to 2nd tube and mix
           - Repeate for four dilutions (get: 100, 25, 6.25, 1.56, 0.39, 0.09ng of DNA)
           - 96-Well-qPCR-Plate-Map_Primer_dilutions_final.xlsx
+            
   - Set up plate and run qPCR - 3 technical replicates for each:
       - 96-Well-qPCR-Plate-Map_Primer_dilutions_final.xlsx
+        
   - Calculate Standard curve:
       - calc_Primer_efficiency.xlsx
 
